@@ -1,0 +1,18 @@
+Free Data-structure and Algorithm Courses Links:
+
+1-  Introduction to Algorithms and Data structures in C++
+Link- https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-algorithms-and-data-structures-in-c%2F
+
+2- Data Structure Concepts in C
+Link- https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-in-c%2F
+
+3- Algorithms Part 1 - Coursera [Java]
+Link- 
+
+4- Algorithms Part-2
+Link- https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2
+
+5- Data-structures in Java
+Link- https://www.udemy.com/course/data-structures-part-1-lognacademy/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-96IGvdZyJdoTeE7TX6nTvw&utm_medium=udemyads&utm_source=aff-campaign
+
+@codingwithsagar

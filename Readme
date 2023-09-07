@@ -1,62 +1,53 @@
-Python free courses ::
+## Free Python Courses 🐍
 
-Python (Coursera) : 
-You can apply financial aid for these courses :
+### Coursera
+- [Python Specialization](https://www.coursera.org/specializations/python) 📚
+- [Python Crash Course](https://www.coursera.org/learn/python-crash-course) 🚀
+- [Python for Applied Data Science & AI](https://www.coursera.org/learn/python-for-applied-data-science-ai) 🧠
+- [Google IT Automation Professional Certificate](https://www.coursera.org/professional-certificates/google-it-automation) 🤖
+- [IBM Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science) 📈
+- [Get Started with Python](https://www.coursera.org/learn/get-started-with-python) 🐍
+- [IBM Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst) 📊
 
-1: https://www.coursera.org/specializations/python 
-2: https://www.coursera.org/learn/python-crash-course
-3: https://www.coursera.org/learn/python-for-applied-data-science-ai
-4: https://www.coursera.org/professional-certificates/google-it-automation
-5: https://www.coursera.org/professional-certificates/ibm-data-science
-6: https://www.coursera.org/learn/get-started-with-python
-7: https://www.coursera.org/professional-certificates/ibm-data-analyst
+### Projects on Coursera
+- [Google Cloud Dataflow with Python](https://www.coursera.org/projects/googlecloud-dataflow-qwik-start-python-cwldm) 🌐
+- [Deploying a Python Flask Web Application to App Engine](https://www.coursera.org/projects/googlecloud-deploying-a-python-flask-web-application-to-app-engine-flexibl-2w3lz) 🌐
+- [Setting Up a Python Development Environment on Google Cloud](https://www.coursera.org/projects/googlecloud-app-dev-setting-up-a-development-environment-python-g0xjk) ☁️
+- [Google Cloud Pub/Sub Qwik Start with Python](https://www.coursera.org/projects/googlecloud-google-cloud-pub-sub-qwik-start-python-iaxyd) 📮
+- [Machine Learning with Python](https://www.coursera.org/learn/machine-learning-with-python) 🤖
+- [Data Analysis with Python Specialization](https://www.coursera.org/specializations/data-analysis-python) 📊
+- [IBM Data Analyst with R and Excel Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel) 📈
 
-Projects (Coursera) : 
-1. https://www.coursera.org/projects/googlecloud-dataflow-qwik-start-python-cwldm
-2. https://www.coursera.org/projects/googlecloud-deploying-a-python-flask-web-application-to-app-engine-flexibl-2w3lz
-3. https://www.coursera.org/projects/googlecloud-app-dev-setting-up-a-development-environment-python-g0xjk
-4. https://www.coursera.org/projects/googlecloud-google-cloud-pub-sub-qwik-start-python-iaxyd
-5. https://www.coursera.org/learn/machine-learning-with-python
-6. https://www.coursera.org/specializations/data-analysis-python
-7. https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel
+### Udemy (Machine Learning)
+- [What is Machine Learning?](https://www.udemy.com/course/what-is-machine-learning/) 🤖
+- [Top 5 Machine Learning Libraries in Python](https://www.udemy.com/course/the-top-5-machine-learning-libraries-in-python/) 📚
+- [Natural Language Processing in Python (NLP)](https://www.udemy.com/course/natural-language-processing-python-nlp/) 📜
+- [Python for Beginners - Introduction](https://www.udemy.com/course/pythonforbeginnersintro/) 🐍
+- [Learn Python with Google Colab - A Step to Machine Learning](https://www.udemy.com/course/learn-python-with-google-colab-a-step-to-machine-learning/) 🌐
+- [Logistic Regression for Cancer Detection (Case Study)](https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/) 🩺
+- [Object-Oriented Programming (OOP) in Python for Beginners](https://www.udemy.com/course/oop-in-python-3-for-beginners-2021/) 🧱
 
-Machine learning (UDEMY FREE) :
-1: https://www.udemy.com/course/what-is-machine-learning/
-2: https://www.udemy.com/course/the-top-5-machine-learning-libraries-in-python/
-3: https://www.udemy.com/course/natural-language-processing-python-nlp/
-4: https://www.udemy.com/course/pythonforbeginnersintro/
-5: https://www.udemy.com/course/learn-python-with-google-colab-a-step-to-machine-learning/
-6: https://www.udemy.com/course/logistic-regression-cancer-detection-case-study/
-7: https://www.udemy.com/course/oop-in-python-3-for-beginners-2021/
+### Udemy (Deep Learning)
+- [NumPy in Python](https://www.udemy.com/course/numpy-python/) 🧮
+- [TensorFlow 2.0 - Recurrent Neural Networks (LSTMs & GRUs)](https://www.udemy.com/course/tensorflow-20-recurrent-neural-networks-lstms-grus/) 🧠
+- [The Journey of Deep Learning](https://www.udemy.com/course/the-journey-of-deep-learning/) 🚀
+- [Deep Learning Neural Networks in JavaScript from Scratch](https://www.udemy.com/course/deep-learning-neural-networks-in-javascript-from-scratch/) 🌐
+- [AI4ALL Basics in Convolutional Neural Networks](https://www.udemy.com/course/ai4all-basics-in-convolutional-neural-network/) 🧠
+- [Deep Learning Basics for Beginners](https://www.udemy.com/course/deep-learning-basics-for-beginners/) 📚
 
-Deep Learning (UDEMY FREE) :
-1: https://www.udemy.com/course/numpy-python/
-2: https://www.udemy.com/course/numpy-python/
-3: https://www.udemy.com/course/tensorflow-20-recurrent-neural-networks-lstms-grus/
-4: https://www.udemy.com/course/the-journey-of-deep-learning/
-5: https://www.udemy.com/course/deep-learning-neural-networks-in-javascript-from-scratch/
-6: https://www.udemy.com/course/ai4all-basics-in-convolutional-neural-network/
-7: https://www.udemy.com/course/deep-learning-basics-for-beginners/
+### Great Learning
+- [Python Fundamentals for Beginners](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners) 🐍
+- [Python Programming in Hindi](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-programming-in-hindi) 🇮🇳
+- [Python for Machine Learning in Hindi](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-in-hindi) 🤖
+- [Data Science in Hindi](https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-in-hindi) 📈
+- [Python Projects for Beginners](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners) 📝
+- [Python for Non-Programmers](https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-non-programmers) 🚫💻
 
+## Free Data Structure and Algorithm Courses 📊
 
-Great learning : 
-1: https://www.mygreatlearning.com/academy/learn-for-free/courses/python-fundamentals-for-beginners
-2: https://www.mygreatlearning.com/academy/learn-for-free/courses/python-programming-in-hindi
-3: https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-machine-learning-in-hindi1 (python for machine learning in hindi)
-4: https://www.mygreatlearning.com/academy/learn-for-free/courses/data-science-in-hindi (data science)
-5: https://www.mygreatlearning.com/academy/learn-for-free/courses/python-projects-for-beginners 
-6: https://www.mygreatlearning.com/academy/learn-for-free/courses/python-for-non-programmers1
-7: https://www.mygreatlearning.com/academy/learn-for-free/courses/oops-in-python-in-hindi
+- [Introduction to Algorithms and Data Structures in C++](https://www.udemy.com/course/introduction-to-algorithms-and-data-structures-in-c/) 📚
+- [Data Structure Concepts in C](https://www.udemy.com/data-structures-in-c/) 🗂️
+- [Algorithms Part-2 on Coursera](https://www.coursera.org/learn/algorithms-part2) 🧩
+- [Data Structures in Java](https://www.udemy.com/course/data-structures-part-1-lognacademy/) ☕
 
-
-Free Data-structure and Algorithm Courses Links:
-
-1-  Introduction to Algorithms and Data structures in C++
-Link- https://click.linksynergy.com/deeplink?id=CuIbQrBnhiw&mid=39197&murl=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fintroduction-to-algorithms-and-data-structures-in-c%2F
-2- Data Structure Concepts in C
-Link- https://click.linksynergy.com/fs-bin/click?id=JVFxdTr9V80&subid=0&offerid=323058.1&type=10&tmpid=14538&RD_PARM1=https%3A%2F%2Fwww.udemy.com%2Fdata-structures-in-c%2F
-3- Algorithms Part-2
-Link- https://coursera.pxf.io/c/3294490/1164545/14726?u=https%3A%2F%2Fwww.coursera.org%2Flearn%2Falgorithms-part2
-4- Data-structures in Java
-Link- https://www.udemy.com/course/data-structures-part-1-lognacademy/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-96IGvdZyJdoTeE7TX6nTvw&utm_medium=udemyads&utm_source=aff-campaign
-
+Happy Learning! 📖✨
